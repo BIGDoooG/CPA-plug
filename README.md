@@ -17,4 +17,4 @@ plugins:
     - "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/registry.json"
 ```
 
-当前发布版本：`0.3.0-canary.4`，平台：`linux/amd64`。
+当前发布版本：`0.3.0-canary.5`，平台：`linux/amd64`。

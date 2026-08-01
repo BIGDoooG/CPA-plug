@@ -6,7 +6,7 @@
       "name": "Codex Quota Scheduler Canary",
       "description": "Codex credential-model circuit controls and account concurrency routing canary.",
       "author": "Rainmaker canary build",
-      "version": "0.3.0-canary.4",
+      "version": "0.3.0-canary.5",
       "repository": "https://github.com/BIGDoooG/CPA-plug",
       "license": "MIT",
       "tags": [
@@ -21,8 +21,8 @@
           {
             "goos": "linux",
             "goarch": "amd64",
-            "url": "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/dist/codex-quota-scheduler_0.3.0-canary.4_linux_amd64.zip",
-            "sha256": "993589929526a6c5cb22bca01298560a68c85fef5f4d1dcf372779afced53994"
+            "url": "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/dist/codex-quota-scheduler_0.3.0-canary.5_linux_amd64.zip",
+            "sha256": "4a0c9a3aaeea70e2f15a6be70f25f6f0ef905741f99cbe9b4215bf59cbb5bcd9"
           }
         ]
       }
