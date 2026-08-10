@@ -21,7 +21,7 @@
           {
             "goos": "linux",
             "goarch": "amd64",
-            "url": "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/dist/codex-scheduler_0.4.0_linux_amd64.zip?rev=workbench-v4-0.4.0-r2",
+          "url": "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/dist/codex-scheduler_0.4.0-workbench-v4_linux_amd64.zip",
             "sha256": "50830bf709bfaa234db693336b25c030a77bdc833d928027fb9b0f1355164ab1"
           }
         ]
