@@ -17,9 +17,11 @@ plugins:
     - "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/registry.json"
 ```
 
-当前正式版本：`0.4.1`，平台：`linux/amd64`。
+当前正式版本：`0.4.2`，平台：`linux/amd64`。
 
-`0.4.1` 修复 CPA Manager Plus 延迟注入宿主样式后，顶部菜单变成圆角
+`0.4.2` 修复错误规则分类按钮被统一染成蓝色，以及页面标题区被宿主
+`panel/card` 样式强制显示白色背景的问题。`0.4.1` 修复 CPA Manager Plus
+延迟注入宿主样式后，顶部菜单变成圆角
 按钮并发生布局跳变的问题。导航保持上下两层结构，其他工作台功能继承
 `0.4.0`：账号并发、冷却控制、错误规则、数据分析和持久化诊断。
 
