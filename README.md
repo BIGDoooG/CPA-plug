@@ -17,7 +17,11 @@ plugins:
     - "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/registry.json"
 ```
 
-当前正式版本：`0.4.4`，平台：`linux/amd64`。
+当前正式版本：`0.5.4`，平台：`linux/amd64`。
+
+`0.5.4` 新增 Claude 凭证发现与管理页展示，同时保留 Codex 额度刷新隔离；
+Codex 与 Claude 均可使用独立的并发租约、错误分类和凭证+模型冷却。
+Claude 不会被送入 Codex OAuth 额度刷新或 Codex 主动探测链路。
 
 `0.4.4` 修复 CPA 宿主样式导致的品牌图标字色异常，移除页面顶部黄色提示条，
 并统一调大工作台、菜单、表格和说明文字。`0.4.3` 为错误规则分类按钮增加独立语义样式，彻底隔离默认主按钮的
