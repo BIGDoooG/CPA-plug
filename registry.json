@@ -6,7 +6,7 @@
       "name": "Codex 调度器",
       "description": "Codex 与 Claude 凭证调度、并发路由、异常识别与凭证模型熔断插件。",
       "author": "Rainmaker",
-      "version": "0.5.5",
+      "version": "0.5.6",
       "repository": "https://github.com/BIGDoooG/CPA-plug",
       "license": "MIT",
       "tags": [
@@ -22,8 +22,8 @@
           {
             "goos": "linux",
             "goarch": "amd64",
-            "url": "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/dist/codex-scheduler_0.5.5_linux_amd64.zip",
-            "sha256": "4bf781b6c771e0d476e425248fc8c225f8ff5e8a9fcb021df0d1296f0ea573ca"
+            "url": "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/dist/codex-scheduler_0.5.6_linux_amd64.zip",
+            "sha256": "1b11d4dbff86332ac64b72f0a31a13f056c94666c31f71a4aea3feb20d57c0c1"
           }
         ]
       }

@@ -17,9 +17,9 @@ plugins:
     - "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/registry.json"
 ```
 
-当前正式版本：`0.5.5`，平台：`linux/amd64`。
+当前正式版本：`0.5.6`，平台：`linux/amd64`。
 
-`0.5.5` 新增 Claude 独立运行账号池，支持候选扫描、并发租约、模型冷却和管理页状态展示，同时保留 Codex 额度刷新隔离；
+`0.5.6` 在 Claude 独立运行账号池基础上，增加 Codex/Claude 分开的错误规则、冷却阈值、路由方式、软并发目标和租约超时设置；未覆盖的 Provider 设置继承通用默认值，同时保留 Codex 额度刷新隔离。
 Codex 与 Claude 均可使用独立的并发租约、错误分类和凭证+模型冷却。
 Claude 不会被送入 Codex OAuth 额度刷新或 Codex 主动探测链路。
 
