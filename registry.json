@@ -22,7 +22,7 @@
           {
             "goos": "linux",
             "goarch": "amd64",
-            "url": "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/dist/codex-scheduler_0.5.6_linux_amd64.zip",
+          "url": "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/2ac2256/dist/codex-scheduler_0.5.6_linux_amd64.zip",
             "sha256": "b7f1be378ecf62f1d85f1b070eab5aca24efa7fc212ef412f32051363581a23"
           }
         ]
