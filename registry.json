@@ -22,7 +22,7 @@
             "goos": "linux",
             "goarch": "amd64",
             "url": "https://raw.githubusercontent.com/BIGDoooG/CPA-plug/main/dist/codex-scheduler_0.6.0_linux_amd64.zip",
-            "sha256": "42a3ee96cac02242560b6bc2537e05d4b1e06360195ceb5436a2a1e3f19f0a3e"
+            "sha256": "596a4e9babb812ef5e7789a4cc2d040768a874ec64c28c6112e2d50744cc3e85"
           }
         ]
       }
